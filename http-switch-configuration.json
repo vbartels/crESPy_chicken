@@ -1,0 +1,12 @@
+{
+    "accessory": "HTTP-SWITCH",
+    "name": "crESPy_chicken",
+    "switchType": "stateful",
+    "onUrl": "http://172.17.172.12/relay_on",
+    "offUrl": "http://172.17.172.12/relay_off",
+    "statusUrl": "http://172.17.172.12/state",
+    "_bridge": {
+        "username": "0E:4D:91:28:B9:B8",
+        "port": 39290
+    }
+}
